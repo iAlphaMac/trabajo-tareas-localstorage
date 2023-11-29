@@ -1,0 +1,9 @@
+.main-image{
+  background-image: url('./components/Multimedia/agenda.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.buttonSize:hover{
+  transition: scale(1,1);
+}
